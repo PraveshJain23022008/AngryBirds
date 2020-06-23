@@ -1,2 +1,2 @@
-# AngryBirds
-creating images of birds, pigs, ground and plank.
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
